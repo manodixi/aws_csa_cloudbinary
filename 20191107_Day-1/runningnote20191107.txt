@@ -6,4 +6,3 @@ AWS certificationa road map
 sharing the class notes
 Launch a linux server on AWS cloud
 Connecting Linux server using various toold from our laptop
-
