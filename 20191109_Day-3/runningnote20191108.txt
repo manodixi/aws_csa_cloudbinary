@@ -1,0 +1,4 @@
+Creating AWS Account
+Download,install tols
+AWS global infra
+Creating IAM USercd ..
